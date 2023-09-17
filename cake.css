@@ -1,0 +1,342 @@
+body {
+  background-color: rgb(255, 255, 255);
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* our icons */
+.start {
+  background: #F7F4ED;
+  padding: 50px 20px 50px 170px;
+  text-align: center;
+}
+
+.start h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  position: relative;
+  color: #587493;
+  font-size: 2.5em;
+  font-weight: normal;
+  display: inline-block;
+  margin: 0;
+  line-height: 1;
+  padding: 8px 20px 8px 2px;
+  border-top: 4px solid;
+}
+
+.start h1:before {
+  content: "Homemade";
+  position: absolute;
+  top: -9px;
+  left: -220px;
+  font-size: 1.3em;
+  transform: rotate(-15deg);
+  font-family: 'Marck Script', cursive;
+}
+
+.start h1:after {
+  content: "";
+  position: absolute;
+  width: 140%;
+  height: 4px;
+  right: 0;
+  bottom: -4px;
+  background: #587493;
+}
+
+/* Best-Ever Chocolate Cake */
+.cake {
+  display: flex;
+  background-image: url('https://chameleons.com.ua/tmp/cache/images/36/183/36183180327829eafcc639d077a31ff0.jpg');
+  background-repeat: repeat-x;
+  background-size: auto 25%;
+}
+
+.cake img {
+  width: 700px;
+  height: 700px;
+}
+
+.cake p {
+  position: relative;
+  top: 270px;
+  left: 350px;
+
+}
+
+.cake h1 {
+  position: relative;
+  top: 300px;
+  left: 6px;
+  font-size: 50px;
+}
+
+.basic {
+  display: flex;
+  align-items: center;
+}
+
+.basic p {
+  width: 67%;
+
+  position: absolute;
+  top: 560px;
+  left: 830px;
+  width: 40%;
+  font-size: 35px;
+  color: #587493;
+  font-family: 'Marck Script', cursive;
+
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.header {
+  position: absolute;
+  margin-bottom: 570px;
+  margin-left: 80px;
+  line-height: 2em;
+
+}
+
+/* ingredients */
+.ingredients {
+
+  margin-top: 100px;
+  margin-left: 80px;
+  line-height: 2em;
+}
+
+.ingredients h2 {
+  font-family: 'Neutra';
+  src: url('/_assets/design-tokens/goodhousekeeping/static/fonts/Neutra2Text_book.b25bcd9.woff2') format('woff2');
+
+}
+
+
+.directions {
+  position: absolute;
+  margin-top: 250px;
+  margin-left: 500px;
+  line-height: 2em;
+  width: 64%;
+  font-size: 23px;
+
+
+}
+
+
+/* colomn */
+/* Intro */
+.hr1 {
+  border: 1.5px solid#587493;
+  padding: 0;
+  position: relative;
+  margin-top: 20px;
+  top: 200px;
+
+}
+
+.hello {
+  display: flex;
+  align-items: center;
+  position: relative;
+  top: 200px;
+  background-color: #F7F4ED;
+
+
+}
+
+.hello p {
+  width: 67%;
+  text-align: center;
+  margin-left: 230px;
+  margin-top: 32px;
+  margin-bottom: 32px;
+  font-size: 35px;
+  color: #587493;
+  font-family: 'Marck Script', cursive;
+
+}
+
+#C1 {
+  margin-top: 100px;
+  border: 1.5px solid#587493;
+  padding: 0;
+}
+
+/* Gingerbread Bundt Cake */
+.cake2 {
+  display: flex;
+  margin-top: 1px;
+}
+
+.cake2 h1 {
+  margin-top: 240px;
+  margin-left: 100px;
+
+  font-size: 50px;
+
+}
+
+.cake2 p {
+
+  position: absolute;
+  margin-top: 200px;
+  margin-left: 290px;
+}
+
+.aboutGingerbread {
+  position: absolute;
+  right: 780px;
+  width: 60%;
+  margin-top: 200px;
+
+}
+
+.aboutGingerbread p {
+  font-size: 35px;
+  color: #587493;
+  font-family: 'Marck Script', cursive;
+
+}
+
+.cake2 img {
+  width: 700px;
+  height: 700px;
+  position: relative;
+  left: 130px;
+  top: 100px;
+}
+
+.horizontal {
+  width: 100%;
+}
+
+/* ingredients2 */
+.container {
+  display: flex;
+
+}
+
+.header1 {
+  position: absolute;
+  margin-bottom: 1050px;
+  margin-left: 1050px;
+  line-height: 2em;
+
+}
+
+.ingredients2 {
+
+  margin-top: 200px;
+  margin-left: 1050px;
+  line-height: 2em;
+  margin-bottom: 450px;
+}
+
+.directions2 {
+  position: absolute;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  line-height: 2em;
+  width: 64%;
+  font-size: 23px;
+
+
+}
+.hr33 {
+  border: 1.5px solid#587493;
+
+}
+/* Colomn Breakfast and Cupcake */
+.new_rec {
+  display: inline-block;
+  justify-content: space-between;
+
+}
+
+.column {
+  display: inline-block;
+  justify-content: space-between;
+  margin-right: 182px;
+  margin-left: 100px;
+  background: #F7F4ED;
+  margin-bottom: 40px;
+
+}
+
+
+.column a {
+  text-decoration: none;
+  color: black;
+  text-align: center;
+
+
+}
+
+.column video {
+  height: 250px;
+  width: 450px;
+}
+
+.column h3 {
+  margin-bottom: 35px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+
+
+/* conclusion */
+.end {
+  display: flex;
+  align-items: center;
+  background-color: #F7F4ED;
+
+
+}
+
+.end p {
+  width: 95%;
+  text-align: center;
+  margin-left: 30px;
+  margin-top: 32px;
+  margin-bottom: 32px;
+  font-size: 33px;
+  color: #587493;
+  font-family: 'Marck Script', cursive;
+}
+
+/* social icons */
+.social {
+  display: flex;
+  align-items: center;
+  margin-left: 600px;
+  margin-top: 20px;
+
+
+}
+
+.social i {
+  font-size: 30px;
+  text-decoration: none;
+  margin-left: 50px;
+  margin-right: 10px;
+
+
+}
+
+.social p {
+  background-image: url('https://chameleons.com.ua/tmp/cache/images/36/183/36183180327829eafcc639d077a31ff0.jpg');
+  background-repeat: repeat;
+}
+
