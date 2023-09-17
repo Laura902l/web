@@ -6,10 +6,9 @@ work belongs:
 Kazikhanova Laura
 Alikhan Krykbes
  
- group: SE-2209
+Group: SE-2209
  
- We decided to develop a website dedicated to cooking and baking. The site features a variety of recipes divided into categories such as cakes, cupcakes and breakfasts.
-
+We decided to develop a website dedicated to cooking and baking. The site features a variety of recipes divided into categories such as cakes, cupcakes and breakfasts.
 
 We have successfully completed the following tasks:
 
@@ -19,5 +18,5 @@ We have successfully completed the following tasks:
 •	Apply padding, frames and external margins (margins).
 •	Used CSS Position and CSS Display properties.
 •	Successfully used CSS Float and Clear to align elements
-![Uploading image.png…]()
+
 
