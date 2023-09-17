@@ -4,6 +4,7 @@ Assignment - 1. HTML and CSS
 
 work belongs: 
 Kazikhanova Laura
+
 Alikhan Krykbes
  
 Group: SE-2209
