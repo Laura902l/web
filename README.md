@@ -7,6 +7,7 @@ Kazikhanova Laura
 Alikhan Krykbes
  
  group: SE-2209
+ 
  We decided to develop a website dedicated to cooking and baking. The site features a variety of recipes divided into categories such as cakes, cupcakes and breakfasts.
 
 
